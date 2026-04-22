@@ -183,6 +183,6 @@ A "Request a Callback" modal is implemented as a bonus feature. It:
 - Submits to `/api/leads` (Next.js Route Handler)
 - Stores the submission in a database
 
-> *(Update this section if the bonus feature was implemented or remove if not)*
 
 # Accredian_page
+![alt text](image.png)
