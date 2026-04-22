@@ -8,8 +8,8 @@
 
 | Resource | URL |
 |---|---|
-| 🌐 Live Demo | [your-vercel-deployment-link.vercel.app](https://your-vercel-deployment-link.vercel.app/) *(update after deploy)* |
-| 📁 GitHub Repo | [github.com/your-username/accredian-enterprise](https://github.com/your-username/accredian-enterprise) *(update link)* |
+| 🌐 Live Demo | [your-vercel-deployment-link.vercel.app](https://accredian-page-ivory.vercel.app/) |
+| 📁 GitHub Repo | [github.com/your-username/accredian-enterprise](https://github.com/Agyanshu7352/Accredian_page) |
 
 ---
 
@@ -58,7 +58,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/accredian-enterprise.git
+git clone https://github.com/Agyanshu7352/Accredian_page.git
 cd accredian-enterprise
 
 # 2. Install dependencies
